@@ -25,7 +25,7 @@ With this package, you have the flexibility to craft gradient icons in the size 
 to `/example` folder.
 
 ```dart
-const like = 'sample';
+GradientIcon(Icons.square, 50, linGradient),
 ```
 
 ## Additional information
